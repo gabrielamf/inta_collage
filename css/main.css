@@ -1,0 +1,118 @@
+.margin-content {
+  margin-top: 1.5rem;
+}
+.image {
+  width: 100%;
+  height: 100%;
+}
+.box{
+  background-color: rgb(236, 234, 234);
+  border-bottom: 10px solid white;
+  height: 15vh;
+  padding: 0;
+  width: 100%;
+}
+.separation {
+  margin-bottom: 0;
+}
+.franja {
+  background-color: rgb(165, 142, 142);
+}
+.text-franja {
+  font-size: 2rem;
+  color: white;
+  font-weight: 600;
+  margin: 5px;
+}
+
+.box-big {
+  border-left: 10px solid white;
+  height: 30vh;
+  padding: 0;
+  width: 100%;
+  background-color: rgb(236, 234, 234);
+}
+.pad {
+  padding: 0 !important;
+}
+.margin-b {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+.pad-img {
+  padding: 0 !important;
+}
+.margin-row{
+  margin-bottom: 10px;
+}
+/* estilo login */
+.bg-insta {
+  background: linear-gradient(#78B176, #C87A59);
+  height: 100vh;
+  color: white;
+}
+.insta {
+  font-family: Billabong;
+  color: white;
+  font-size: 3em;
+  margin-bottom: .6em;
+}
+.lang {
+  background-color: transparent;
+  border: none;
+}
+.input {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 5px !important;
+  padding: 5px 0 !important;
+  margin-bottom: 1rem !important;
+}
+.label-input {
+  color: white !important;
+  margin-left: 1rem !important;
+}
+.btn-login {
+  background-color: transparent;
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.472);
+  border-radius: 5px;
+  height: 3.5rem;
+  line-height: 3.5rem;
+}
+.btn-face {
+  border: none;
+  background-color: none;
+  margin-top: 1rem;
+}
+.help {
+  font-weight: 600;
+}
+.line:after,
+.line:before {
+  content: '';
+  width: 40%;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.2);
+  display: inline-block;
+}
+.size-o {
+  font-size: 16px;
+  position: relative;
+  top: 5px;
+  margin: 0 10px;
+}
+hr {
+  margin: 2rem 0;
+}
+@media (min-width:992px) {
+  .logo {
+    margin-left: 2rem;
+  }
+  .box{
+    height: 30vh;
+  }
+  .box-big {
+    height: 60vh;
+
+  }
+}
