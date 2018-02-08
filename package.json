@@ -1,0 +1,26 @@
+{
+  "name": "inta_collage",
+  "version": "1.0.0",
+  "description": "* **Curso:** _Construye una SINGLE PAGE APP (SPA) multi-usuario consumiendo data remota_\r * **Unidad:** _¿Qué hay de nuevo en HTML5?_",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d public/js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielamf/inta_collage.git"
+  },
+  "keywords": [
+    "Collage"
+  ],
+  "author": "Gabriela Mamani_Jennifer Carmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielamf/inta_collage/issues"
+  },
+  "homepage": "https://github.com/gabrielamf/inta_collage#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
