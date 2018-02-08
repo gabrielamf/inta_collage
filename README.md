@@ -6,9 +6,10 @@
 ***
 ## Objetivos
 
-- - En este reto, ponemos en práctica todo lo aprendido, durantes las dos primeras unidades del presente sprint.
+-
 
-- Se nos pide utilizar la API de HTML5 drag and drop, a través de este ejercicio.
+## Observaciones
+
 
 ## webSite
 * Puede ver el [Proyecto en vivo]
